@@ -13,33 +13,31 @@
  */
 const work = [
   {
-    name: 'ShareBIM Asia Engineering Consultancy',
-    position: 'BIM Modeler',
-    url: 'https://www.jobstreet.com.ph/companies/sharebim-asia-engineering-consultancy-168550826318019',
-    startDate: '2024-03-05',
-    endDate: '2024-05-05',
+    name: 'Fireprofessionals (Firepro) Inc.  ',
+    position: 'Junior Sales Executive',
+    url: 'https://fireprofessionals.com.ph',
+    startDate: '2023-02-15',
+    endDate: '2024-02-15',
     summary: ` 
      `,
     highlights: [
-      'Collaborated with project lead to ensure successful completion of modeling tasks.',
-      'Design drawing preparation and tracks response to update the model, generation of shop drawings from the approved construction drawings.',
+      'Prospected and generated leads within assigned territory, resulting in a 20% increase in client base.',
+      'Presented and demonstrated fire protection products and services to potential customers, achieving a 15% conversion rate.',
+      'Collaborated with technical teams to ensure accurate understanding and representation of product features and benefits.',
+      'Negotiated contracts and terms of sales agreements, consistently meeting or exceeding monthly sales targets.',
     ],
   },
   {
-    name: 'Fire Professionals Inc.',
-    position: 'AutoCAD Operator',
-    url: 'https://fireprofessionals.com.ph',
-    startDate: '2019-09-03',
-    endDate: '2023-09-15',
+    name: 'COMELEC',
+    position: 'DESO Technician Support',
+    url: ' ',
+    startDate: '2022-04-01',
+    endDate: '2022-04-30',
     summary: ` 
      `,
     highlights: [
-      'Demonstrated ability to create and modify drawings to meet engineering requirements.',
-      'Proven success in accurately producing CAD drawings and plans from verbal and written instructions.',
-      'Highly experienced in identifying and computing materials, labor and overhead and preliminaries in accordance with bid plan, technical specifications and bid documents.',
-      'Exhibited skills to create business presentations and advertising tools for products and services.',
-      'Well established vision to build, design, and maintain a website.',
-      'In-depth knowledge of Identifying hardware and software solutions, and diagnosing and repairing faults.',
+      'Provided expert technical support and troubleshooting for DESO systems, resolving issues promptly and ensuring minimal downtime.',
+      'Managed, installed, configured, and tested new DESO equipment at customer sites, ensuring seamless integration and functionality.',
     ],
   },
 ];

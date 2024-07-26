@@ -7,22 +7,22 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/aakalaw',
+    link: 'https://github.com/angelicalosa',
     label: 'Github',
     icon: faGithub,
   },
   {
-    link: 'https://www.facebook.com/angeloaaronkalaw',
+    link: 'https://www.facebook.com/angelicalosa',
     label: 'Facebook',
     icon: faFacebookF,
   },
   {
-    link: 'https://www.linkedin.com/in/angeloaaronkalaw',
+    link: 'https://www.linkedin.com/in/angelicalosa',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'mailto:angeloaaronkalaw@gmail.com',
+    link: 'mailto:losaangelica52@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },

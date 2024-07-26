@@ -5,7 +5,7 @@ const Age = () => {
 
   const tick = () => {
     const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
-    const birthTime = new Date('1993-06-23T00:00:00');
+    const birthTime = new Date('1998-03-25T00:00:00');
     setAge(((Date.now() - birthTime) / divisor).toFixed(11));
   };
 
@@ -29,7 +29,7 @@ const data = [
     label: 'Countries visited',
     value: 1,
     link:
-      'https://www.google.com/maps/d/u/0/embed?mid=13NxPUrlYkcyO61umHs6zy1USYm25klA&ehbc=2E312F',
+      'https://www.google.com/maps/d/u/1/embed?mid=1brlWeC-k0bH-oXjLVdCN8sPva26uTcs&ehbc=2E312F',
   },
   {
     key: 'location',

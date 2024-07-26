@@ -20,7 +20,6 @@
     "test": "npx jest"
   },
   "dependencies": {
-    "@emailjs/browser": "^4.3.3",
     "@fortawesome/free-brands-svg-icons": "^6.5.1",
     "@fortawesome/free-regular-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "0.2.0",

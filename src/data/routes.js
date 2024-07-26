@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: 'ANGELO AARON KALAW',
+    label: 'ANGELICA LOSA',
     path: '/',
   },
   {
@@ -13,8 +13,8 @@ const routes = [
     path: '/resume',
   },
   {
-    label: 'Projects',
-    path: '/projects',
+    label: 'Portfolio',
+    path: '/portfolio',
   },
   {
     label: 'Stats',

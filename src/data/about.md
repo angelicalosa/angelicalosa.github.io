@@ -10,11 +10,11 @@ You can personally ask me about stories that I'm too afraid to share on the inte
 
 # I like
 
-- Billiards
-- Sudoku
-- Music
-- Guitar
-- Bicycle
+- Karaoke
+- Dancing
+- Tiktok
+- Online Shopping
+- Facebook
 
 # Fun facts
 
@@ -29,4 +29,3 @@ You can personally ask me about stories that I'm too afraid to share on the inte
 - Showing sincere kindness and respect to each person.
 - Remaining inquisitive.
 - Consistently striving for improvement.
-- Living for around a thousand years.

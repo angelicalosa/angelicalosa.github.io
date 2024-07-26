@@ -1,9 +1,9 @@
 const degrees = [
   {
-    school: 'Technological Institute of the Philippines',
-    degree: 'Computer Engineering',
-    link: 'https://www.tip.edu.ph/',
-    year: 2017,
+    school: 'Samar College Inc.',
+    degree: 'Bachelor of Elementary Education',
+    link: 'https://beta.samarcollege.edu.ph/portal/',
+    year: 2019,
   },
 ];
 
