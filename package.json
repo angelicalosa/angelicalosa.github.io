@@ -1,11 +1,11 @@
 {
-  "name": "aakalaw.github.io",
+  "name": "angelicalosa.github.io",
   "version": "4.0.0",
-  "homepage": "https://aakalaw.github.io",
+  "homepage": "https://angelicalosa.github.io",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aakalaw/aakalaw.github.io"
+    "url": "https://github.com/angelicalosa/angelicalosa.github.io"
   },
   "engines": {
     "node": ">=16.x"
