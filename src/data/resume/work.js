@@ -17,7 +17,7 @@ const work = [
     position: 'Junior Sales Executive',
     url: 'https://fireprofessionals.com.ph',
     startDate: '2023-02-15',
-    endDate: '2024-02-15',
+    endDate: '2024-05-15',
     summary: ` 
      `,
     highlights: [
