@@ -12,15 +12,16 @@ You can personally ask me about stories that I'm too afraid to share on the inte
 
 - Karaoke
 - Dancing
-- Tiktok
-- Online Shopping
 - Facebook
+- Tiktok
+- Instagram
+- Online Shopping
 
 # Fun facts
 
 - My dream vacation together with my family is going to Japan and riding in a hot air balloon.
 - I love to cook. My signature dish is homemade sunny-sideup fried egg.
-- If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.
+- If I could have any superpower, it would be the ability to travel through time would let me witness historical events firsthand and explore different eras.
 
 # I dream of
 
