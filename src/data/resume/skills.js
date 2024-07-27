@@ -2,7 +2,7 @@ const skills = [
   {
     title: 'Microsoft Office',
     competency: 4,
-    category: ['Suite'],
+    category: ['Application Suite'],
   },
   {
     title: 'Canva',

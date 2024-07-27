@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Greetings, my name is Ange. I hold a background in elementary education and have
+      <p>Greetings, you can call me Ange. I hold a background in elementary education and have
         accumulated over a year of experience in junior sales executive role. I am enthusiastic
         about transitioning into freelance teaching as a professional endeavor.
       </p>

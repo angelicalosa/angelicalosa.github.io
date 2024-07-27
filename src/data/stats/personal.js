@@ -4,9 +4,11 @@ const Age = () => {
   const [age, setAge] = useState();
 
   const tick = () => {
+    const pstOffsetHours = 8; // PST is UTC+8
     const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
-    const birthTime = new Date('1998-03-25T00:00:00');
-    setAge(((Date.now() - birthTime) / divisor).toFixed(11));
+    const birthTimeUTC = new Date('1998-03-25T00:00:00');
+    const birthTimePST = new Date(birthTimeUTC.getTime() + (pstOffsetHours * 60 * 60 * 1000));
+    setAge(((Date.now() - birthTimePST) / divisor).toFixed(11));
   };
 
   useEffect(() => {
@@ -15,6 +17,7 @@ const Age = () => {
       clearInterval(timer);
     };
   }, []);
+
   return <>{age}</>;
 };
 

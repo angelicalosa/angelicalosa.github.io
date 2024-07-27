@@ -33,7 +33,7 @@ const Resume = () => (
         <div className="title">
           <h2><Link to="/resume">Resume</Link></h2>
           <div className="link-container">
-            <h4><a href="https://drive.google.com/file/d/1K_4nDJsR1pbxfd4hRRvUFmTZhHef9s52/view">download</a></h4>
+            <h4><a href="https://drive.google.com/file/d/1mattbdC2Z6ZZsCRzxMTQusGrjOrZG6r2/view">download</a></h4>
             {Object.keys(sections).map((sec) => (
               <h4 key={sec}>
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
