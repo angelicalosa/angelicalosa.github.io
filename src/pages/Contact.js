@@ -17,7 +17,7 @@ const Contact = () => (
         </div>
       </header>
       <div className="email-at">
-        <p>Feel free to reach out and send me a direct message
+        <p>Feel free to reach out and send me a message
           if you need any assistance. I&apos;ll be happy to help.
         </p>
         <EmailLink />
