@@ -1,27 +1,24 @@
-# Saying
+# Some Saying
 
-- I always made a to-do list for everyday. I just can’t figure out who’s going to do it.
+- "I’m not lazy; I’m just conserving my energy for more important tasks."
 
-# History
+# Stories
 
-- Karl Marx said, “History repeats itself, first as a tragedy, second as a farce.”
-
-You can personally ask me about stories that I'm too afraid to share on the internet.
+I usually prefer sharing my stories face-to-face because I'm a bit wary of putting them out there online.
 
 # I like
 
-- Karaoke
-- Dancing
-- Facebook
-- Tiktok
-- Instagram
-- Online Shopping
+- Karaoke (singing my heart out in the shower and pretending I’m auditioning for a talent show)
+- Dancing (shaking it like nobody’s watching, except for my baby who looks at me like I’m having a mid-life crisis)
+- Facebook (mastering the art of procrastination while skillfully crafting status updates that no one reads but everyone likes)
+- Tiktok (perfecting the skill of lip-syncing to songs I barely know, all while trying to avoid a viral fail)
+- Instagram (curating a feed that’s 90% me pretending to be a fashion model and 10% sunsets)
+- Online Shopping (adding everything to my cart like it’s a game)
 
 # Fun facts
 
-- My dream vacation together with my family is going to Japan and riding in a hot air balloon.
-- I love to cook. My signature dish is homemade sunny-sideup fried egg.
-- If I could have any superpower, it would be the ability to travel through time would let me witness historical events firsthand and explore different eras.
+- I love to cook. My signature dish is the humble sunny-side-up fried egg. It’s so perfect, even Gordon Ramsay would trade his chef’s hat for the recipe. My kitchen skills are basically limited to this one dish, but hey, why mess with perfection?
+- If I could have any superpower, I’d choose time travel. Not just to see historical events, but to go back and witness my past self trying to cook anything other than a sunny-side-up egg. Spoiler: it didn’t go well.
 
 # I dream of
 

@@ -44,7 +44,7 @@ jobs:
         env:
           NODE_ENV: production
           # Remove this line if you would like to skip using google analytics
-          REACT_APP_GA_MEASUREMENT_ID: G-73Z7W7SHKD
+          #  REACT_APP_GA_MEASUREMENT_ID: G-XXXXXXXXXX
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact

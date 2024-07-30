@@ -3,7 +3,8 @@ const degrees = [
     school: 'Samar College Inc.',
     degree: 'Bachelor of Elementary Education',
     link: 'https://beta.samarcollege.edu.ph/portal/',
-    year: 2019,
+    startYear: 2015,
+    endYear: 2019,
   },
 ];
 

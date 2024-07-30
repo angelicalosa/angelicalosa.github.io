@@ -32,7 +32,7 @@ const data = [
     label: 'Countries visited',
     value: 1,
     link:
-      'https://www.google.com/maps/d/u/1/embed?mid=1brlWeC-k0bH-oXjLVdCN8sPva26uTcs&ehbc=2E312F',
+      'https://www.google.com/maps/d/u/2/embed?mid=1brlWeC-k0bH-oXjLVdCN8sPva26uTcs&ehbc=2E312F',
   },
   {
     key: 'location',
